@@ -44,6 +44,9 @@
 
 
 
+<img width="245" height="170" alt="image" src="https://github.com/user-attachments/assets/fc37fbfa-7a8a-47fb-b052-4024cce65907" />   
+
+
 ### MongoDB Aggregation Overview
 - **Aggregation** in MongoDB is a way to process data records and return computed results.
 - It involves a **pipeline** of operations where the output of one stage is the input to the next.
